@@ -2,7 +2,7 @@
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)
-# Budget App
+# 💳Budget App
 
 This is a budget tracking application built with React.
 
@@ -13,6 +13,13 @@ This is a budget tracking application built with React.
 - Edit and delete expenses
 - View total budget, expenses, and balance
 - Responsive design
+## How to Use ❓
+
+1. Set your budget by entering a total amount in the "Budget" section and clicking the "Set Budget" button.
+2. Add expenses by entering the title and cost of the product in the "Expenses" section and clicking the "Check Amount" button.
+3. View your total budget, expenses, and balance in the "Output" section.
+4. Delete expenses from the "Expense List" section.
+
 
 ## 👻Usage
 
