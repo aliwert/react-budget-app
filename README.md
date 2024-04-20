@@ -6,7 +6,7 @@
 
 This is a budget tracking application built with React.
 
-## Features
+## 🤖Features
 
 - Set a budget
 - Add expenses
