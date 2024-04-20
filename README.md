@@ -13,6 +13,16 @@ This is a budget tracking application built with React.
 - Edit and delete expenses
 - View total budget, expenses, and balance
 - Responsive design
+
+## Usage
+
+1. Clone this repository to your local machine.
+2. Navigate to the project directory.
+3. Install dependencies by running `npm install`.
+4. Start the development server by running `npm start`.
+5. Open your browser and visit `http://localhost:3000` to view the application.
+
+
 ## 🛠️Technologies Used
 - React.js
 - CSS
