@@ -13,3 +13,8 @@ This is a budget tracking application built with React.
 - Edit and delete expenses
 - View total budget, expenses, and balance
 - Responsive design
+## 🛠️Technologies Used
+- React.js
+- CSS
+- Font Awesome Icons
+- Google Fonts
