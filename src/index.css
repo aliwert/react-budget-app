@@ -1,8 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200..700&display=swap');
+
 * {
   padding: 0;
   margin: 0;
   box-sizing: border-box;
-  font-family: "Poppins", sans-serif;
+  font-family: "Oswald", sans-serif;
 }
 body {
   background-color: #f7f9fd;
@@ -56,13 +58,13 @@ body {
 .user-amount-container {
   background-color: #ffffff;
   padding: 1.25em 0.9em;
-  border-radius: 0.3em;
+  border-radius: 40px;
   box-shadow: 0 0.6em 1.2em rgba(28, 0, 80, 0.06);
 }
 .output-container {
   background-color: #587ef4;
   color: #ffffff;
-  border-radius: 0.3em;
+  border-radius: 30px;
   box-shadow: 0 0.6em 1.2em rgba(28, 0, 80, 0.06);
   margin: 2em 0;
   padding: 1.2em;
@@ -85,14 +87,14 @@ body {
   outline: none;
   color: #ffffff;
   padding: 0.6em 1.2em;
-  border-radius: 0.3em;
+  border-radius: 30px;
   cursor: pointer;
 }
 .list {
   background-color: #ffffff;
   padding: 1.8em 1.2em;
   box-shadow: 0 0.6em 1.2em rgba(28, 0, 80, 0.06);
-  border-radius: 0.6em;
+  border-radius: 30px;
 }
 .sublist-content {
   width: 100%;
